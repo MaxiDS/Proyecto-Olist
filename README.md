@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://images-ext-2.discordapp.net/external/HFKVnJNEvU32KM72lg3HBt9svtG8vFYBfJ5b3G3e0pI/https/i.imgur.com/Wynp1Tu.png?width=676&height=676"  height=400>
-</p>
+</p>  
 
 
 <hr>
@@ -15,6 +15,7 @@
 + [3- Producto final](#producto-final)
 + [4- Principales tecnologías utilizadas.](#principales-tecnologías-utilizadas)
 + [5- Informes.](#informes)
++ [6- Video de You tube.](#video_de_youtube)
  
  
 <hr>
@@ -78,4 +79,10 @@ En las correspondientes carpetas están los respectivos informes de cada área p
 
 [Informe Machine Learning](https://github.com/LucianoAsencio/PF05_Olist/blob/main/Machine%20Learning/README.md)
 
-[EDA](https://www.notion.so/Informe-EDA-f54fea04c3e3469ca89d12b815ab0ad6)
+[EDA](https://www.notion.so/Informe-EDA-f54fea04c3e3469ca89d12b815ab0ad6)  
+
+<h1> 
+
+### Video_de_youtube
+
+[![Alt text](https://img.youtube.com/vi/FF1_tH3758U/0.jpg)](https://www.youtube.com/watch?v=FF1_tH3758U) 
