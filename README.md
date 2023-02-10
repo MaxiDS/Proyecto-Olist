@@ -41,7 +41,7 @@ Teniendo esto en vista y con miras de potenciar los beneficios que brinda Olist 
 2. `Soporte a los clientes:` Detectaremos a aquellos clientes que posean pocos productos vendidos en relación con los publicados, a los que tengan reseñas negativas o a los que posean poca actividad usando servicios de Olist. De esta forma Olist podrá brindarles apoyo o soporte que permita mejorar sus ventas, su presencia en el mercado y evitar una potencial baja de nuestros servicios.  
 3. `Red de redes:` Analizaremos el tráfico de productos que permita sectorizar esfuerzos en cuanto a marketing y expansión del negocio.  
 
-[FODA](https://github.com/LucianoAsencio/PF05_Olist/blob/main/Analytics/An%C3%A1lisis%20FODA.md)
+[FODA](https://github.com/MaxiDS/Proyecto-Olist/blob/main/Analytics/An%C3%A1lisis%20FODA.md)
 
 <hr>  
 
@@ -73,11 +73,11 @@ Para los vendedores, tenemos un dashboard que habla de información más especí
 En las correspondientes carpetas están los respectivos informes de cada área particular.
 
 
-[Informe Data Engineering](https://github.com/LucianoAsencio/PF05_Olist/blob/main/Engineering/README.md)
+[Informe Data Engineering](https://github.com/MaxiDS/Proyecto-Olist/tree/main/Engineering)
 
 [Informe Data Analytics](https://github.com/MaxiDS/Proyecto-Olist/tree/main/Analytics)
 
-[Informe Machine Learning](https://github.com/LucianoAsencio/PF05_Olist/blob/main/Machine%20Learning/README.md)
+[Informe Machine Learning](https://github.com/MaxiDS/Proyecto-Olist/tree/main/Machine%20Learning)
 
 [EDA](https://www.notion.so/Informe-EDA-f54fea04c3e3469ca89d12b815ab0ad6)  
 
