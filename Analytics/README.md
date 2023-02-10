@@ -22,18 +22,18 @@ Aquí encontrarás el contenido y la explicación de las tablas y columnas utili
 #### Diccionario de KPI's:  
 Este documento describe los KPI clave que se utilizaron en el panel para ayudar a los analistas a tomar las mejores decisiones.   
 
-+ [Diccionario de KPI´S.](https://github.com/LucianoAsencio/PF05_Olist/blob/analytics/Analytics/Diccionario%20Objetivos%20y%20KPIS.md)   
++ [Diccionario de KPI´S.](https://github.com/MaxiDS/Proyecto-Olist/blob/main/Analytics/Diccionario%20Objetivos%20y%20KPIS.md)   
 
 #### EDA:  
 El Análisis Exploratorio de Datos se utiliza para explorar y comprender los datos a través de visualizaciones.  
 
-+ [EDA.](https://github.com/LucianoAsencio/PF05_Olist/blob/analytics/Analytics/EDA_Olist_DA.ipynb)  
++ [EDA.](https://github.com/MaxiDS/Proyecto-Olist/blob/main/Analytics/EDA_Olist_DA.ipynb)  
 
 #### Informe:  
 El informe de análisis se utiliza para presentar los resultados y hallazgos del EDA de manera clara y concisa, con el objetivo de comunicar y documentar los resultados para futuras referencias. 
 
   
-+ [Informe.](https://github.com/LucianoAsencio/PF05_Olist/blob/analytics/Analytics/Informe%20analytic.md)   
++ [Informe.](https://github.com/MaxiDS/Proyecto-Olist/blob/main/Analytics/Informe%20analytic.md)   
 
 <hr>  
 
@@ -41,7 +41,7 @@ El informe de análisis se utiliza para presentar los resultados y hallazgos del
 
 Para ver mucho mas en detalle nuestro analisis y recomendaciones hicimos un FODA    
 
-[FODA](https://github.com/LucianoAsencio/PF05_Olist/blob/analytics/Analytics/An%C3%A1lisis%20FODA.md)
+[FODA](https://github.com/MaxiDS/Proyecto-Olist/blob/main/Analytics/An%C3%A1lisis%20FODA.md)
 
 ## Dashboards   
 
