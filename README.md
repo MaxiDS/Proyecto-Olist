@@ -75,7 +75,7 @@ En las correspondientes carpetas están los respectivos informes de cada área p
 
 [Informe Data Engineering](https://github.com/LucianoAsencio/PF05_Olist/blob/main/Engineering/README.md)
 
-[Informe Data Analytics](https://github.com/LucianoAsencio/PF05_Olist/blob/main/Analytics/README.md)
+[Informe Data Analytics](https://github.com/MaxiDS/Proyecto-Olist/tree/main/Analytics)
 
 [Informe Machine Learning](https://github.com/LucianoAsencio/PF05_Olist/blob/main/Machine%20Learning/README.md)
 
